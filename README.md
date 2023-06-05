@@ -26,8 +26,11 @@ const aboutMe = {
 ---
 
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg"></code>
-<code><img height="20" src="https://github.com/halak/unity-editor-icons/blob/master/icons/small/BuildSettings.SelectedIcon.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/programming-languages.gif"></code>
-<i class="programming lang-javascript"></i>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg"></code>
+
