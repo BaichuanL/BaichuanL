@@ -1,3 +1,4 @@
+https://www.linkedin.com/in/baichuan-liu-634322244/
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg"></code>
