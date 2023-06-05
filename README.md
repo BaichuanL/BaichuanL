@@ -1,6 +1,3 @@
-<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
-
-
 <p><em>A master student at <a href="https://www.northeastern.edu/">Northeastern University</a>, majoring in Informatics. 😊</br>
 </em></p>
 
