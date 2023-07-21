@@ -1,4 +1,5 @@
-<p><em>A master student at <a href="https://www.northeastern.edu/">Northeastern University</a>, majoring in Informatics. 😊</br>
+<p><em>Master's Degree at <a href="https://www.northeastern.edu/">Northeastern University</a>, majoring in Informatics. 😊</br>
+<p><em>Bachelor's Degree at <a href="https://www.northeastern.edu/">University of California San Diego</a>, majoring in Cognitive Science. 😊</br>
 </em></p>
 
 
