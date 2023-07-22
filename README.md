@@ -6,13 +6,13 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, React, jQuery, AJAX, Node.js, Figma],
+   code: [Javascript, HTML, CSS, React, jQuery, AJAX, Node.js, Figma, Ajax, mySQL, RESTful api, MongoDB],
    technologies: {
       frontEnd: {
          js: ["React", "jQuery"],
-         css: ["Bootstrap", "Antd", "Echart"]
+         css: ["Bootstrap", "Antd", "Echart", "SCSS"]
       },
-      databases: ["mySQL", "JASONServer"],
+      databases: ["mySQL", "JASONServer", "MongoDB"],
    },
    currentOccupation: ["Graduate student, Internship at EZ Dealer, open for fulltime job opportunities"],
 };
